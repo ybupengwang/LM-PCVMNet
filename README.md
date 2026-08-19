@@ -4,7 +4,7 @@ LM-PCVMNet: Pediatric Cervical Vertebral Maturation Analysis with Deep Fusion of
 
 
 <div align="center">
-  <img src="./logo.png" style="width:70%; max-width:800px;">
+  <img src="./logo.png" style="width:80%; max-width:800px;">
 </div>
 
 
