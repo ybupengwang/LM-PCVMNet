@@ -20,6 +20,14 @@ LM-PCVMNet: Pediatric Cervical Vertebral Maturation Analysis with Deep Fusion of
 send the signed e-copy to Peng Wang (email: pwang@ybu.edu.cn) and Pro. Tao Li 
 (email: litao@nankai.edu.cn) . We will send you the dataset link and password when recieving the data registration form.
 
+★ The iCVM-900 dataset used in this study was originally introduced in the paper:
+
+> **iCVM: An Interpretable Deep Learning Model for CVM Assessment Under Label Uncertainty**
+
+The original iCVM-900 dataset is not publicly released and can be accessed by contacting the original authors according to their data sharing policy.
+In this work, we further extended the iCVM-900 dataset by annotating **13 anatomical landmarks** on the cervical vertebrae images to support our research. We only provide the [newly added landmark annotations](https://github.com/ybupengwang/LM-PCVMNet/blob/main/icvmlabel.zip), while the original images are not redistributed.
+Researchers interested in accessing the original iCVM-900 dataset should contact the authors of the original paper.
+We sincerely thank the authors of **iCVM** for sharing their dataset and making this research possible.
 
 
 
